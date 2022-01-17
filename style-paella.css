@@ -1,0 +1,83 @@
+
+body {
+    background-color: rgb(175, 186, 218);
+    
+} 
+.container img{
+    float: left;
+    margin-right: 15px;
+    width: 400px;
+    height: 250px;
+    border-radius: 7px;
+    background-color: rgb(236, 152, 164);
+    padding: 1em;
+   box-shadow: 15px 15px 15px rgb(63, 48, 66); 
+   
+  
+}h1{ 
+    background-color: rgb(144, 128, 219);
+    box-shadow: 15px 15px 15px rgb(104, 98, 104);
+font-family: Arial, Helvetica, sans-serif 200%;
+}
+
+p{
+    font-size: x-large;
+}
+h2{
+    box-shadow: 10px 10px 10px rgb(110, 35, 110); 
+   font-size: xx-large;
+}
+.box img{
+    
+    margin-right: 15px;
+    width: 300px;
+    height: 200px;
+    border-radius: 7px;
+    background-color: rgb(94, 133, 219);
+    padding: 1em;
+   box-shadow: 15px 15px 15px rgb(63, 48, 66); 
+   top:0;
+   left:0;
+  border-radius: 4em;
+  
+}
+.elaborar img{
+    
+    margin-right: 15px;
+    width: 300px;
+    height: 200px;
+    border-radius: 7px;
+    background-color: rgb(219, 94, 94);
+    padding: 1em;
+   box-shadow: 15px 15px 15px rgb(63, 48, 66); 
+   top:0;
+   left:0;
+  border-radius: 4em;
+  
+}
+.verduras img{
+    float: right;
+    margin-right: 15px;
+    width: 100px;
+    height: 100px;
+    border-radius: 7px;
+    background-color: rgb(73, 24, 24);
+    padding: 1em;
+   box-shadow: 15px 15px 15px rgb(223, 170, 233); 
+   top:0;
+   left:0;
+  border-radius: 4em;
+  
+}
+img{
+    width: 1200px;
+    height: 300px;
+    box-shadow: 15px 15px 15px 15px rgb(157, 67, 175); 
+}
+
+
+
+
+ 
+
+ 

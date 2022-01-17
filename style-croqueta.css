@@ -1,0 +1,21 @@
+body img{
+    width:50% ;
+    float: right;
+    
+    margin-right: 15px;
+    width: 400px;
+    height: 350px;
+    border-radius: 5px;
+    background-color: rgb(183, 243, 114);
+    padding: 1em;
+   box-shadow: 15px 15px 15px rgb(63, 48, 66); 
+    
+
+}
+body{
+    
+    background-image:url(estrella.jpg);
+}
+p{ 
+    font-size: x-large;
+}

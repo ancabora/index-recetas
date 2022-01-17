@@ -1,0 +1,24 @@
+ img{
+    float: left;
+    margin-right: 15px;
+    width: 400px;
+    height: 250px;
+    border-radius: 5px;
+    background-color: rgb(183, 243, 114);
+    padding: 1em;
+   box-shadow: 15px 15px 15px rgb(63, 48, 66); 
+   
+  
+}h1{ 
+    background-color: rgb(238, 139, 139);
+    box-shadow: 15px 15px 15px rgb(104, 98, 104);
+
+}
+body {
+    background-color: rgb(175, 186, 218);
+    
+}
+p{
+    font-size:1.2em ;
+}
+   
